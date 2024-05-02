@@ -1,0 +1,2 @@
+#define SECRET_SSID "DAE-WIRELESS"
+#define SECRET_PASS "WelcometoDAE"
